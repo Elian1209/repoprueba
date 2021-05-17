@@ -1,3 +1,5 @@
 #Prueba de imagenes
 
-![sf](plantilla/Supercomputadra.jpg)
+![](plantilla/Supercomputadora.jpg)
+
+##realizado
