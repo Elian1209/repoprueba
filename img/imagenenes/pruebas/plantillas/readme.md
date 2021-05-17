@@ -1,4 +1,0 @@
-# pr
-
-
-![](./plantilla/Supercomputadora.jpg)
