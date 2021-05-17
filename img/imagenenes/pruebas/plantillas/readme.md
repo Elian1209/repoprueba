@@ -1,6 +1,4 @@
-#Prueba de imagenes
-
-![](plantilla/Supercomputadora.jpg)
+# pr
 
 
-##realizado
+<img src="repopruebas/img/imagenes/pruebas/plantilla/Supercomputadora.jpg">
